@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning how to bring my ML models to production and MLops as a whole
 - 📫 Reach me at giacostantino@gmial.com
 
-*I decided to stick with the basic format because it's quite funny*
+*I decided to stick with the basic format because I find the emotes quite funny*
